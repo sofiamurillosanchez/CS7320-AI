@@ -1,0 +1,13 @@
+Algorithm,Board Size,Best Run (# Moves),Worst Run (# Moves),Average Run (# Moves)
+Steepest Hill,4,1,64,0.87
+Steepest Hill,8,5,64,5.25
+Steepest Hill,20,12,400,28.9
+Steepest Hill,32,18,1024,72.7
+Stochastic Hill,4,2,64,0.92
+Stochastic Hill,8,4,64,2.32
+Stochastic Hill,20,10,88,3.55
+Stochastic Hill,30,21,72,3.55
+Stochastic Hill 2,4,1,64,0.9
+Stochastic Hill 2,8,4,64,2.49
+Stochastic Hill 2,20,19,64,3.46
+Stochastic Hill 2,30,17,74,4.54
